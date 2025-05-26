@@ -1,2 +1,3 @@
-# my-test-project
-This is a test project on GitHub.
+# About my test project on GitHub
+
+### Cats spend approximately 70% of their lives sleeping.
